@@ -32,3 +32,7 @@
    ```bash
    npm start
    ```
+
+## Хостинг
+
+- хостинг по ссылке https://test-adiretto.vercel.app/
