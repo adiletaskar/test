@@ -15,8 +15,20 @@
 
 ## Установка
 
-1. Clone the repository:
+1. Клонирование репозиторий:
 
    ```bash
    git clone <repository_url>
+   ```
+
+2. Установка модулей:
+
+   ```bash
+   npm install
+   ```
+
+3. Старт проекта:
+
+   ```bash
+   npm start
    ```
